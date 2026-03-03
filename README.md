@@ -22,12 +22,12 @@ I enjoy transforming complex AI concepts into practical solutions — from promp
 - ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/aaronp07/)
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:anewlife2me@rediffmail.com)
+- 📬 How to reach me: [Email](mailto:anewlife2me@rediffmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AswinBarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aaron" height="30" width="40" /></a>
+<a href="https://github.com/aaronp07/aaronp07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aaron" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/u/aaronp07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;

@@ -32,7 +32,7 @@ I enjoy transforming complex AI concepts into practical solutions — from promp
 &nbsp;
 
 🚀 What I Do
-```
+
 - 🤖 Build and deploy LLM-powered applications
 - 🔎 Design RAG architectures with vector databases
 - 🧠 Implement embedding pipelines & semantic search

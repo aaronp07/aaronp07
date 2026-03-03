@@ -30,5 +30,13 @@ I enjoy transforming complex AI concepts into practical solutions — from promp
 &nbsp;
 <a href="https://leetcode.com/u/aaronp07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/21174126/aaron-p" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
-&nbsp;
+
+🚀 What I Do
+```
+- 🤖 Build and deploy LLM-powered applications
+- 🔎 Design RAG architectures with vector databases
+- 🧠 Implement embedding pipelines & semantic search
+- ☁️ Work with Azure OpenAI & cloud-based AI services
+- 🛠 Develop scalable backend systems integrating AI models
+- 🧩 Improve AI reliability (hallucination reduction, structured prompting, evaluation logic)
+- 🌍 Build multilingual AI assistants

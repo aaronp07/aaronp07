@@ -17,7 +17,7 @@ I am a passionate Generative AI Engineer specializing in building intelligent sy
 
 I enjoy solving complex problems using AI, building production-ready ML systems, and optimizing LLM workflows for performance, reliability, and multilingual support.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/aaronp07/aaronp07/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 - 👨‍🎓 I'm a **Senior Generative AI Engineer**
 - 💬 Ask me about anything, I am happy to help

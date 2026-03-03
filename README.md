@@ -11,9 +11,11 @@
 
 ## Talking about Personal Stuff! &nbsp;
 
-Hi, I'm Aaron P, a passionate Generative AI Developer focused on building intelligent, scalable, and reliable AI-driven applications. I specialize in designing and implementing AI systems powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, and enterprise-grade cloud integrations.
+🚀 Generative AI Engineer | LLM Integrator | AI Solutions Developer
 
-I enjoy transforming complex AI concepts into practical solutions — from prompt engineering and hallucination control to building production-ready backend systems using modern AI frameworks.
+I am a passionate Generative AI Engineer specializing in building intelligent systems powered by Large Language Models (LLMs). I focus on designing scalable AI architectures, implementing retrieval-augmented generation (RAG), prompt engineering, and integrating AI solutions into real-world enterprise applications.
+
+I enjoy solving complex problems using AI, building production-ready ML systems, and optimizing LLM workflows for performance, reliability, and multilingual support.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -29,9 +31,9 @@ I enjoy transforming complex AI concepts into practical solutions — from promp
 <a href="https://github.com/aaronp07/aaronp07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aaron" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/u/aaronp07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-🚀 What I Do
+## 🚀 What I Do
 
 - 🤖 Build and deploy LLM-powered applications
 - 🔎 Design RAG architectures with vector databases
@@ -40,3 +42,31 @@ I enjoy transforming complex AI concepts into practical solutions — from promp
 - 🛠 Develop scalable backend systems integrating AI models
 - 🧩 Improve AI reliability (hallucination reduction, structured prompting, evaluation logic)
 - 🌍 Build multilingual AI assistants
+
+## ⚙️ Tech Stack
+
+- 🐍 Python
+- 🔷 Azure OpenAI
+- 🧠 OpenAI GPT Models
+- 🔎 Azure Cognitive Search
+- 🗄 PostgreSQL
+- 📦 SQLAlchemy
+- 🧩 FastAPI / Flask
+- 🐳 Docker
+
+## 📌 Core Expertise
+
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embedding Optimization
+- LLM Evaluation & Guardrails
+- AI Escalation Logic Design
+- API Integration
+- AI Performance Tuning
+
+## 🎯 Current Focus
+
+- Improving LLM reliability & response control
+- Reducing hallucinations in multilingual systems
+- Building enterprise-grade AI copilots
+- Enhancing AI explainability and observability

@@ -19,7 +19,6 @@ I enjoy transforming complex AI concepts into practical solutions — from promp
 
 - 👨‍🎓 I'm a **Senior Generative AI Engineer**
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/aaronp07/)
 - 📬 How to reach me: [Email](mailto:anewlife2me@rediffmail.com)
